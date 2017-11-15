@@ -93,18 +93,18 @@ body{
 
 .Meals{
 	background-image: url("assets/backgrounds/foodsBg.jpg");
-	padding-top: 20px;
+	padding-top: 5px;
 	padding-bottom: 20px;
 	font-family: Georgia;
 }
 
 .MealsContent{
-	margin: 95px 105px 95px;
+	margin: 25px 105px 25px;
     width: 6900px;
 }
 
 .nav-tabs .nav-item {
-    width: 277px;
+    width: 267px;
 }
 
 .FoodPhotos{
